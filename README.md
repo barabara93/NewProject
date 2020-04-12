@@ -1,1 +1,1 @@
-TinDog Starting Files
+TinApp Starting Files
